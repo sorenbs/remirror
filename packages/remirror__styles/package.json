@@ -42,12 +42,12 @@
     "styled-components"
   ],
   "dependencies": {
-    "@babel/runtime": "^7.22.3",
+    "@babel/runtime": "^7.22.6",
     "@remirror/core-helpers": "^3.0.0"
   },
   "devDependencies": {
-    "@emotion/css": "^11.11.0",
-    "@emotion/react": "^11.11.0",
+    "@emotion/css": "^11.11.2",
+    "@emotion/react": "^11.11.1",
     "@emotion/styled": "^11.11.0",
     "@types/react": "^18.2.0",
     "@types/styled-components": "^5.1.26",
